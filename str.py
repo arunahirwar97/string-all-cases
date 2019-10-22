@@ -1,0 +1,7 @@
+a = input("Enter any string : ")
+print("Enter any string convert in the uppecase ")
+a.upper()
+print("Enter any string convert into the lowercase ")
+a.lower()
+print("Enter any string convert into the title ")
+a.title()
